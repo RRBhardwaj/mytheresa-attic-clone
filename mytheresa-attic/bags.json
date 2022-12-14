@@ -1,0 +1,413 @@
+
+{
+    "bags":[
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/f4/P00714589.jpg",
+    "name":"The Row",
+    "title":"Geo Margeaux Large leather tote bag",
+    "price":"€ 3,079"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/fc/P00587384.jpg",
+    "name":"The Row",
+    "title":"Margaux 17 suede tote",
+    "price":"€ 3,355"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/42/P00714544.jpg",
+    "name":"The Row",
+    "title":"Margaux suede tote bag",
+    "price":"€ 2,765"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/dd/P00432114.jpg",
+    "name":"Saint Laurent",
+    "title":"Loulou Small leather shoulder bag",
+    "price":"€ 1,316"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/77/P00714599.jpg",
+    "name":"The Row",
+    "title":"Park Small leather tote bag",
+    "price":"€ 1,009"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/23/P00686088.jpg",
+    "name":"Salvatore Ferragamo",
+    "title":"Iconic Top Handle suede tote",
+    "price":"€ 1,172"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/9b/P00709633.jpg",
+    "name":"Saint Laurent",
+    "title":"Le 5 à 7 Mini leather shoulder bag",
+    "price":"€ 1,055"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/a8/P00700149.jpg",
+    "name":"Peter Do",
+    "title":"Dumpling Medium leather shoulder bag",
+    "price":"€ 1,119"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/5d/P00653564.jpg",
+    "name":"The Row",
+    "title":"Sporty Medium nylon backpack",
+    "price":"€ 1,059"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/bc/P00648915.jpg",
+    "name":"Alaïa",
+    "title":"Le Cœur leather shoulder bag",
+    "price":"€ 665"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/23/P00665659.jpg",
+    "name":"The Row",
+    "title":"Nu Mini Twin suede crossbody bag",
+    "price":"€ 935"
+    },
+    {
+    "image":"https://img.mytheresa.com/420/475/95/jpeg/catalog/product/0e/P00632443.jpg",
+    "name":"Alaïa",
+    "title":"Cœur Small leather shoulder bag",
+    "price":"€ 665"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00361553.jpg",
+    "name":"Marni",
+    "title":"Trunk leather shoulder bag",
+    "price":"€ 826"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/37/P00680361.jpg",
+    "name":"Dolce&Gabbana",
+    "title":"Sicily Small leather shoulder bag",
+    "price":"€ 972"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b0/P00670201.jpg",
+    "name":"The Row",
+    "title":"Margaux 17 leather tote",
+    "price":"€ 3,041"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/aa/P00655477.jpg",
+    "name":"Balenciaga",
+    "title":"Gossip leather wallet on chain"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c8/P00655422.jpg",
+    "name":"Balenciaga",
+    "title":"Neo Classic Mini leather shoulder bag"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/76/P00646233.jpg",
+    "name":"Balenciaga",
+    "title":"Tool 2.0 Small leather tote"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/23/P00686088.jpg",
+    "name":"Salvatore Ferragamo",
+    "title":"Iconic Top Handle suede tote",
+    "price":"€ 1,172"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/13/P00686086.jpg",
+    "name":"Salvatore Ferragamo",
+    "title":"Creations metallic leather tote",
+    "price":"€ 1,005"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/82/P00702759.jpg",
+    "name":"Tod's",
+    "title":"Timeless Large suede tote bag",
+    "price":"€ 857"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9c/P00655423.jpg",
+    "name":"Balenciaga",
+    "title":"Neo Classic Small leather shoulder bag",
+    "price":"€ 973"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00734672.jpg",
+    "name":"Tory Burch",
+    "title":"Kira quilted leather crossbody bag",
+    "price":"€ 370"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6f/P00686090.jpg",
+    "name":"Salvatore Ferragamo",
+    "title":"Iconic Top Handle suede tote",
+    "price":"€ 1,172"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"La Medusa Small leather shoulder bag",
+    "price":"€ 647"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tory Burch",
+    "title":"Kira Flap Small leather shoulder bag",
+    "price":"€ 370"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tod's",
+    "title":"Timeless knit and leather tote bag",
+    "price":"€ 1,060"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Staud",
+    "title":"Tommy beaded shoulder bag",
+    "price":"€ 149"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"La Medusa Small leather shoulder bag",
+    "price":"€ 651"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balenciaga",
+    "title":"Hourglass Mini leather crossbody bag",
+    "price":"€ 696"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"The Row",
+    "title":"Medium reversible tote bag",
+    "price":"€ 465"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"La Medusa Large leather bucket bag",
+    "price":"€ 1,032"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balenciaga",
+    "title":"Sneakerhead Small shoulder bag",
+    "price":"€ 1,470"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Patou",
+    "title":"Le Patou leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balenciaga",
+    "title":"Gossip leather wallet on chain"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tod's",
+    "title":"Timeless Medium leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balenciaga",
+    "title":"XX Small croc-effect leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Proenza Schouler",
+    "title":"Braid Small leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Marc Jacobs",
+    "title":"The Traveler Medium woven tote"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tory Burch",
+    "title":"T Monogram Small cutout tote",
+    "price":"€ 472"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tory Burch",
+    "title":"T Monogram jacquard bucket bag",
+    "price":"€ 405"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Marni",
+    "title":"Trunk Medium shoulder bag",
+    "price":"€ 527"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balenciaga",
+    "title":"Gossip leather wallet on chain",
+    "price":"€ 770"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Salvatore Ferragamo",
+    "title":"Gancini leather tote",
+    "price":"€ 1,088"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Patou",
+    "title":"Le Patou leather shoulder bag",
+    "price":"€ 399"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"La Medusa Small denim shoulder bag",
+    "price":"€ 815"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tod's",
+    "title":"Timeless leather shoulder bag",
+    "price":"€ 584"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Peter Do",
+    "title":"Pouch leather shoulder bag",
+    "price":"€ 492"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"Medusa Medium denim bucket bag",
+    "price":"€ 1,032"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Salvatore Ferragamo",
+    "title":"Vara leather shoulder bag",
+    "price":"€ 678"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tory Burch",
+    "title":"Leather cutout tote",
+    "price":"€ 528"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Proenza Schouler",
+    "title":"PS1 Tiny leather crossbody bag",
+    "price":"€ 906"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"La Medusa leather camera bag",
+    "price":"€ 633"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Tod's",
+    "title":"Timeless Mini leather shoulder bag",
+    "price":"€ 1,060"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balmain",
+    "title":"1945 Small faux leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balmain",
+    "title":"1945 Small faux leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balenciaga",
+    "title":"Wheel nylon shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Versace",
+    "title":"La Medusa leather camera bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"JW Anderson",
+    "title":"Belt embroidered tote bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Cecilie Bahnsen",
+    "title":"Fallulah Medium ruffled shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"See By Chloé",
+    "title":"Tilly Medium canvas tote"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balmain",
+    "title":"Pillow Micro leather crossbody bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Cecilie Bahnsen",
+    "title":"Fallulah Medium ruffled shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Cecilie Bahnsen",
+    "title":"Fallulah Medium ruffled shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"See By Chloé",
+    "title":"Indra leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Patou",
+    "title":"Patou Large cotton canvas tote bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Marni",
+    "title":"Logo printed tote"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Marni",
+    "title":"Trunk Small shearling-lined leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Patou",
+    "title":"Le Patou leather shoulder bag"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Proenza Schouler",
+    "title":"Braid Small leather shoulder bag",
+    "price":"€ 930"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Patou",
+    "title":"Patou Large cotton canvas tote bag",
+    "price":"€ 290"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Peter Do",
+    "title":"Hinged leather clutch",
+    "price":"€ 537"
+    }
+    ]
+    }

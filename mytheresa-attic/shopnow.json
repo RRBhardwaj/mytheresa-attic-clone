@@ -1,0 +1,364 @@
+{
+    "shopnow":[
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/54/P00762780.jpg",
+    "name":"Self-Portrait",
+    "type":"Bow Envelope Mini leather tote bag",
+    "price":"€ 349"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4d/P00742947.jpg",
+    "name":"Gucci",
+    "type":"Interlocking G leather loafer pumps",
+    "price":"€ 749"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/71/P00751329.jpg",
+    "name":"Valentino",
+    "type":"Logo leather-trimmed canvas coat",
+    "price":"€ 3,535"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d1/P00763165.jpg",
+    "name":"Oscar de la Renta",
+    "type":"Silk pearl drop earrings with crystals",
+    "price":"€ 309"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/18/P00749567.jpg",
+    "name":"Chloé",
+    "type":"Alphabet leather shoulder bag",
+    "price":"€ 665"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6c/P00606230.jpg",
+    "name":"The Row",
+    "type":"Zipped Boot 1 suede boots",
+    "price":"€ 1,195"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9b/P00756704.jpg",
+    "name":"Totême",
+    "type":"Shearling-trimmed suede coat",
+    "price":"€ 2,575"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/64/P00697650.jpg",
+    "name":"Jil Sander",
+    "type":"Twisted hoop earrings",
+    "price":"€ 215"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8b/P00752434.jpg",
+    "name":"Alaïa",
+    "type":"Le Coeur leather shoulder bag",
+    "price":"€ 749"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Georgia crystal-embellished sandals",
+    "price":"€ 839"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balmain",
+    "type":"Double-breasted embellished blazer",
+    "price":"€ 1,925"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"The Attico",
+    "type":"Midnight satin clutch",
+    "price":"€ 1,069"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Proenza Schouler",
+    "type":"White Label wool-blend coat",
+    "price":"€ 1,095"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Inflated square sunglasses",
+    "price":"€ 245"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Sade Small leather shoulder bag",
+    "price":"€ 1,055"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Givenchy",
+    "type":"Cat-eye sunglasses",
+    "price":"€ 155"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Jacquemus",
+    "type":"Le Bambidou shearling shoulder bag",
+    "price":"€ 1,085"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Round sunglasses",
+    "price":"€ 269"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Celine Eyewear",
+    "type":"Cat-eye sunglasses",
+    "price":"€ 239"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Loulou Small leather shoulder bag",
+    "price":"€ 2,355"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Gucci",
+    "type":"Patent leather pumps",
+    "price":"€ 715"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Cat-eye sunglasses",
+    "price":"€ 305"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Jodie Mini leather tote bag",
+    "price":"€ 1,765"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Anagram mohair-blend sweater",
+    "price":"€ 749"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Volver embellished slingback pumps",
+    "price":"€ 1,005"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Square acetate sunglasses",
+    "price":"€ 265"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Puzzle Mini leather shoulder bag",
+    "price":"€ 1,639"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Original rectangle sunglasses",
+    "price":"€ 279"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Jamie Medium satin shoulder bag",
+    "price":"€ 1,935"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Alaïa",
+    "type":"Cutout leather mules",
+    "price":"€ 1,055"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Kate sunglasses",
+    "price":"€ 245"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Gucci",
+    "type":"Crystal-embellished cat-eye sunglasses",
+    "price":"€ 489"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Marni",
+    "type":"Fussbett leather sandals",
+    "price":"€ 465"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Round sunglasses",
+    "price":"€ 255"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Celine Eyewear",
+    "type":"Cat-eye acetate sunglasses",
+    "price":"€ 255"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Cactus gold-plated and enamel drop earrings",
+    "price":"€ 1,685"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Valentino Garavani",
+    "type":"One Stud Mini leather crossbody bag",
+    "price":"€ 925"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Alaïa",
+    "type":"Bombe Bijou suede sandals",
+    "price":"€ 925"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Celine Eyewear",
+    "type":"Rectangular sunglasses",
+    "price":"€ 269"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Arco Small leather tote bag",
+    "price":"€ 1,935"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"SL 534 Sunrise square sunglasses",
+    "price":"€ 265"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Alaïa",
+    "type":"Le Papa Small leather crossbody bag",
+    "price":"€ 1,515"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Virgin wool minidress",
+    "price":"€ 2,345"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Niki Medium raffia shoulder bag",
+    "price":"€ 1,532"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"SL 372 cat-eye sunglasses",
+    "price":"€ 260"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Paula's Ibiza cat-eye sunglasses",
+    "price":"€ 255"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Gucci",
+    "type":"Chain-trimmed oversized sunglasses",
+    "price":"€ 425"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Original rectangle sunglasses",
+    "price":"€ 279"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Sunset Monogram Medium leather shoulder bag",
+    "price":"€ 1,765"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Amina Muaddi",
+    "type":"Cameron Small embellished earrings",
+    "price":"€ 485"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Cat-eye acetate sunglasses",
+    "price":"€ 210"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"Paloma patent leather clutch",
+    "price":"€ 419"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Gucci",
+    "type":"Chain-trimmed cat-eye sunglasses",
+    "price":"€ 375"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Celine Eyewear",
+    "type":"Square acetate sunglasses",
+    "price":"€ 269"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Loewe",
+    "type":"Nail Polish leather sandals",
+    "price":"€ 749"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Birkenstock 1774",
+    "type":"1774 Arizona canvas slides",
+    "price":"€ 355"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Chloé",
+    "type":"Franky oversized sunglasses",
+    "price":"€ 305"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Jacquemus",
+    "type":"Le Bambino leather shoulder bag",
+    "price":"€ 415"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Bottega Veneta",
+    "type":"Jodie Mini shearling tote",
+    "price":"€ 2,019"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Saint Laurent",
+    "type":"SL 466 cat-eye sunglasses",
+    "price":"€ 279"
+    }
+    ]
+    }

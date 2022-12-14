@@ -1,0 +1,482 @@
+
+{
+    "accessories":[
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/08/P00708871.jpg",
+    "name":"Balmain",
+    "type":"Wonder Boy sunglasses",
+    "originalprice":"€ 909",
+    "offerprice":"€ 636",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/c1/P00707395.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Embroidered wool cap",
+    "originalprice":"€ 159",
+    "offerprice":"€ 111",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e4/P00715674.jpg",
+    "name":"Versace",
+    "type":"Greca Goddess chain belt",
+    "originalprice":"€ 1,305",
+    "offerprice":"€ 913",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/bb/P00704384.jpg",
+    "name":"Kenzo",
+    "type":"Striped wool scarf",
+    "originalprice":"€ 585",
+    "offerprice":"€ 409",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/6d/P00704374.jpg",
+    "name":"Kenzo",
+    "type":"Logo embroidered wool beret",
+    "originalprice":"€ 165",
+    "offerprice":"€ 115",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b3/P00707367.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Beanie embellished twill beret",
+    "originalprice":"€ 919",
+    "offerprice":"€ 643",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b7/P00682920.jpg",
+    "name":"Victoria Beckham",
+    "type":"Beveled cat-eye sunglasses",
+    "originalprice":"€ 255",
+    "offerprice":"€ 178",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/1b/P00575699.jpg",
+    "name":"Jennifer Behr",
+    "type":"Marika set of five barrettes",
+    "originalprice":"€ 185",
+    "offerprice":"€ 129",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/3c/P00723397.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Gingham wool-blend bucket hat",
+    "originalprice":"€ 235",
+    "offerprice":"€ 164",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/44/P00723394.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Faux leather baker boy hat",
+    "originalprice":"€ 199",
+    "offerprice":"€ 139",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ae/P00697983.jpg",
+    "name":"Joseph",
+    "type":"Ribbed-knit cashmere Beanie",
+    "originalprice":"€ 139",
+    "offerprice":"€ 97",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ca/P00697722.jpg",
+    "name":"Alanui",
+    "type":"Under the Northern Sky wool-blend scarf",
+    "originalprice":"€ 325",
+    "offerprice":"€ 227",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/43/P00660655.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Embroidered cotton beret",
+    "originalprice":"€ 229",
+    "offerprice":"€ 160",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/42/P00588112.jpg",
+    "name":"Balenciaga",
+    "type":"BB croc-effect leather belt",
+    "originalprice":"€ 325",
+    "offerprice":"€ 227",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b3/P00707306.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Embellished felt canotier hat",
+    "originalprice":"€ 695",
+    "offerprice":"€ 486",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d0/P00688879.jpg",
+    "name":"Balmain",
+    "type":"Houndstooth jacquard wool-blend beanie",
+    "originalprice":"€ 329",
+    "offerprice":"€ 197",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/ad/P00495422.jpg",
+    "name":"Versace",
+    "type":"Virtus leather belt",
+    "originalprice":"€ 230",
+    "offerprice":"€ 161",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9f/P00646501.jpg",
+    "name":"Balenciaga",
+    "type":"Unity Snowboard logo cap",
+    "originalprice":"€ 295",
+    "offerprice":"€ 206",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a6/P00622283.jpg",
+    "name":"Barrie",
+    "type":"Ribbed-knit cashmere beanie",
+    "originalprice":"€ 195",
+    "offerprice":"€ 136",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/54/P00686208.jpg",
+    "name":"Salvatore Ferragamo",
+    "type":"Gancini embellished leather belt",
+    "originalprice":"€ 465",
+    "offerprice":"€ 325"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9e/P00717710.jpg",
+    "name":"Marine Serre",
+    "type":"Moonogram flocked mesh tights",
+    "originalprice":"€ 179",
+    "offerprice":"€ 125",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/4c/P00706089.jpg",
+    "name":"Maison Michel",
+    "type":"Souna denim bucket hat",
+    "originalprice":"€ 369",
+    "offerprice":"€ 221",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/de/P00686212.jpg",
+    "name":"Salvatore Ferragamo",
+    "type":"Gancini leather belt",
+    "originalprice":"€ 379",
+    "offerprice":"€ 265",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8f/P00706203.jpg",
+    "name":"Off-White",
+    "type":"Tie-dye ski gloves",
+    "originalprice":"€ 505",
+    "offerprice":"€ 353",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/d3/P00697783.jpg",
+    "name":"Alanui",
+    "type":"Northern Vibes crochet bucket hat",
+    "originalprice":"€ 379",
+    "offerprice":"€ 227",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/8a/P00715688.jpg",
+    "name":"Versace",
+    "type":"La Greca fringed wool poncho",
+    "originalprice":"€ 1,085",
+    "offerprice":"€ 759",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e5/P00694946.jpg",
+    "name":"Dolce&Gabbana",
+    "type":"Crochet bucket hat",
+    "originalprice":"€ 420",
+    "offerprice":"€ 210",
+    "off":"50% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/98/P00622287.jpg",
+    "name":"Barrie",
+    "type":"Fingerless cashmere gloves",
+    "originalprice":"€ 155",
+    "offerprice":"€ 108",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/e8/P00706029.jpg",
+    "name":"Versace",
+    "type":"Trésor de la Mer bucket hat",
+    "originalprice":"€ 395",
+    "offerprice":"€ 237",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/77/P00622284.jpg",
+    "name":"Barrie",
+    "type":"Fingerless cashmere gloves",
+    "originalprice":"€ 185",
+    "offerprice":"€ 129",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0f/P00694936.jpg",
+    "name":"Dolce&Gabbana",
+    "type":"DG crochet bucket hat",
+    "originalprice":"€ 420",
+    "offerprice":"€ 210",
+    "off":"50% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Maison Michel",
+    "type":"Lauren denim hat",
+    "originalprice":"€ 339",
+    "offerprice":"€ 237",
+    "off":"30% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Balmain",
+    "type":"Monogram jacquard wool-blend scarf",
+    "originalprice":"€ 379",
+    "offerprice":"€ 265"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Dolce&Gabbana",
+    "type":"Embellished nappa leather gloves",
+    "originalprice":"€ 755",
+    "offerprice":"€ 528",
+    "off":"30% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Jennifer Behr",
+    "type":"Bella embellished beret",
+    "originalprice":"€ 325",
+    "offerprice":"€ 227",
+    "off":"30% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Kenzo",
+    "type":"Logo fleece blanket",
+    "originalprice":"€ 295",
+    "offerprice":"€ 147",
+    "off":"50% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Maison Michel",
+    "type":"Virginie straw fedora",
+    "originalprice":"€ 465",
+    "offerprice":"€ 325",
+    "off":"30% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Dolce&Gabbana",
+    "type":"Printed silk twill scarf",
+    "originalprice":"€ 595",
+    "offerprice":"€ 357",
+    "off":"40% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Dolce&Gabbana",
+    "type":"Embellished leather gloves",
+    "originalprice":"€ 690",
+    "offerprice":"€ 483",
+    "off":"30% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"The Row",
+    "type":"Anju cashmere scarf",
+    "originalprice":"€ 1,439",
+    "offerprice":"€ 1,007",
+    "off":"30% off"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Salvatore Ferragamo",
+    "type":"Gancini reversible leather belt",
+    "originalprice":"€ 295",
+    "offerprice":"€ 206"
+    },
+    {
+    "image":"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "name":"Rick Owens",
+    "type":"Leather gloves",
+    "originalprice":"€ 825",
+    "offerprice":"€ 577",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/f4/P00702859.jpg",
+    "name":"MM6 Maison Margiela",
+    "type":"Alpaca wool-blend hat",
+    "originalprice":"€ 215",
+    "offerprice":"€ 107",
+    "off":"50% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/9e/P00688878.jpg",
+    "name":"Balmain",
+    "type":"Monogram jacquard wool beanie",
+    "originalprice":"€ 215",
+    "offerprice":"€ 129",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/49/P00686148.jpg",
+    "name":"Salvatore Ferragamo",
+    "type":"Viva Bow leather smartphone case",
+    "originalprice":"€ 379",
+    "offerprice":"€ 265",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/99/P00622286.jpg",
+    "name":"Barrie",
+    "type":"Fingerless cashmere gloves",
+    "originalprice":"€ 155",
+    "offerprice":"€ 108",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/72/P00715686.jpg",
+    "name":"Versace",
+    "type":"Logo bucket hat",
+    "originalprice":"€ 415",
+    "offerprice":"€ 290",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/a3/P00704354.jpg",
+    "name":"Kenzo",
+    "type":"Baker Boy denim cap",
+    "originalprice":"€ 315",
+    "offerprice":"€ 220",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fe/P00698099.jpg",
+    "name":"JW Anderson",
+    "type":"Wool hood",
+    "originalprice":"€ 265",
+    "offerprice":"€ 185",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/2f/P00710719.jpg",
+    "name":"Dolce&Gabbana",
+    "type":"Floral jersey gloves",
+    "originalprice":"€ 420",
+    "offerprice":"€ 252",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/0d/P00709031.jpg",
+    "name":"Patou",
+    "type":"Logo quilted satin bucket hat",
+    "originalprice":"€ 249",
+    "offerprice":"€ 124",
+    "off":"50% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/40/P00653640.jpg",
+    "name":"The Row",
+    "type":"Monia wool scarf",
+    "originalprice":"€ 625",
+    "offerprice":"€ 437",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/35/P00697785.jpg",
+    "name":"Alanui",
+    "type":"Northern Vibes crochet hat",
+    "originalprice":"€ 379",
+    "offerprice":"€ 227",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/13/P00697988.jpg",
+    "name":"Joseph",
+    "type":"Alpaca-blend scarf",
+    "originalprice":"€ 335",
+    "offerprice":"€ 201",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/92/P00594632.jpg",
+    "name":"Tod's",
+    "type":"Reversible logo leather belt",
+    "originalprice":"€ 309",
+    "offerprice":"€ 216",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/b6/P00707392.jpg",
+    "name":"Ruslan Baginskiy",
+    "type":"Leather beret",
+    "originalprice":"€ 249",
+    "offerprice":"€ 174",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/fa/P00698074.jpg",
+    "name":"JW Anderson",
+    "type":"Crochet bucket hat",
+    "originalprice":"€ 165",
+    "offerprice":"€ 115",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/65/P00680576.jpg",
+    "name":"Rebecca Vallance",
+    "type":"Bridal long tulle veil",
+    "originalprice":"€ 375",
+    "offerprice":"€ 225",
+    "off":"40% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/35/P00562322.jpg",
+    "name":"Versace",
+    "type":"Trésor de la Mer silk scarf",
+    "originalprice":"€ 335",
+    "offerprice":"€ 234",
+    "off":"30% off"
+    },
+    {
+    "image":"https://img.mytheresa.com/560/560/33/jpeg/catalog/product/48/P00698116.jpg",
+    "name":"JW Anderson",
+    "type":"Embroidered logo cap",
+    "originalprice":"€ 99",
+    "offerprice":"€ 69",
+    "off":"30% off"
+    }
+    ]
+    }
