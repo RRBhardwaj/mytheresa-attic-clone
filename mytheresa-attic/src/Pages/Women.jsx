@@ -19,13 +19,25 @@ const Women = () => {
       </Box>
       <Grid
       className={styles.topfourthsection}
-        h='1000px'
+        h='1200px'
         templateRows='repeat(4, 1fr)'
         templateColumns='repeat(4, 1fr)'
         gap={4}
       >
-        <GridItem rowSpan={4} colSpan={2} bg='tomato'></GridItem>
-        <GridItem rowSpan={2} colSpan={2} bg='papayawhip'></GridItem>
+        <GridItem rowSpan={4} colSpan={2} bg='#f2f7f7'>
+          <Text marginTop="20px" fontSize='sm'>PARIS TEXAS X MYTHERESA</Text>
+          <Text fontSize='3xl'>The Exclusive Capsule</Text>
+          <Text fontSize='3xl'>Collection</Text>
+          <Image marginLeft="5px" marginTop="10px" src="https://img.mytheresa.com/media/static/raw/cms/l/LIFE_HP_2022_CW50/Paris-Texas-ActboxTall_2x_20221212102147.jpg?imwidth=600&imdensity=1" alt="picture"/>
+          <Button bg="black" color="white" variant='solid' marginBottom="20px" marginTop="20px">SHOP NOW >></Button>
+        </GridItem>
+        <GridItem rowSpan={2} colSpan={2} bg='papayawhip'>
+        <Text marginTop="20px" fontSize='sm'>SEASONAL FLATS</Text>
+          <Text fontSize='3xl'>The Exclusive Capsule</Text>
+          <Text fontSize='3xl'>Collection</Text>
+          <Image marginLeft="5px" marginTop="10px" src="" alt="picture"/>
+          <Button bg="black" color="white" variant='solid' marginBottom="20px" marginTop="20px">SHOP NOW >></Button>
+        </GridItem>
         <GridItem rowSpan={2} colSpan={2} bg='tomato'></GridItem>
       </Grid>
     </Box>
