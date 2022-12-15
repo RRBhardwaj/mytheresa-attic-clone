@@ -57,10 +57,67 @@ const Women = () => {
         templateColumns='repeat(4, 1fr)'
         gap={4}
       >
-        <GridItem rowSpan={2} colSpan={2} bg='tomato' />
-        <GridItem rowSpan={4} colSpan={2} bg='papayawhip' />
-        <GridItem rowSpan={2} colSpan={2} bg='tomato' />
+        <GridItem rowSpan={2} colSpan={2} bg='white'>
+          <Text marginTop="20px" fontSize='sm'>WHAT'S THE ANGLE?</Text>
+          <Text fontSize='3xl'>Sharpen your edit of</Text>
+          <Text fontSize='3xl'>winter-sun shades</Text>
+          <Image marginLeft="5px" marginTop="18px" src="https://img.mytheresa.com/media/static/raw/cms/l/WW_HP_2022_CW50/CW50_WW_HP_ActboxSmall_1_2x_20221212110608.jpg?imwidth=600&imdensity=1" alt="picture"/>
+          <Button bg="black" color="white" variant='solid'_hover="black" marginTop="30px" marginBottom="50px" size="md">SHOP NOW >></Button>
+          <hr/>
+        </GridItem>
+        <GridItem rowSpan={4} colSpan={2} bg='white'>
+          <Text marginTop="20px" fontSize='sm'>GLAMOROUS GOWNS</Text>
+          <Text fontSize='3xl'>Designed to make a</Text>
+          <Text fontSize='3xl'>statement</Text>
+          <Image marginLeft="5px" marginTop="10px" src="https://img.mytheresa.com/media/static/raw/cms/l/WW_HP_2022_CW50/NEW_BIG/CW50_ActboxTall_2_2x_20221213120617.jpg?imwidth=600&imdensity=1" alt="picture"/>
+          <Button size='md' bg="black" color="white" variant='solid' marginBottom="20px" marginTop="20px" _hover="black">SHOP NOW >></Button>
+        </GridItem>
+        <GridItem rowSpan={2} colSpan={2} bg='white'>
+          <Text marginTop="20px" fontSize='sm'>YOUR NEW FLEX</Text>
+          <Text fontSize='3xl'>The Antigona Stretch Bag</Text>
+          <Text fontSize='3xl'>from Givenchy</Text>
+          <Image marginLeft="5px" marginTop="18px" src="https://img.mytheresa.com/media/static/raw/cms/l/WW_HP_2022_CW50/CW50_WW_HP_ActboxSmall_2_2x_20221212110608.jpg?imwidth=600&imdensity=1" alt="picture"/>
+          <Button bg="black" color="white" variant='solid'_hover="black" marginTop="30px" marginBottom="50px" size="md">SHOP NOW >></Button>
+        </GridItem>
       </Grid>
+      <Box marginTop="20px" marginBottom="20px" width="80%" marginLeft="150px">
+        <hr/>
+      </Box>
+      <Box className={styles.topfifthsection}>
+        <Box>
+          <Text marginTop="20px" fontSize='sm'>PREP SCHOOL</Text>
+          <Text fontSize='3xl'>Where polished is the guiding</Text>
+          <Text fontSize='3xl'>principle</Text>
+        </Box>
+        <Grid
+          marginTop="15px"
+          h='320px'
+          templateRows='repeat(1, 1fr)'
+          templateColumns='repeat(4, 1fr)'
+          gap={4}
+        >
+          <GridItem colSpan={1} bg='white'>
+            <Image src="https://img.mytheresa.com/media/static/raw/cms/l/LIFE_HP_2022_CW50/CW50_WW_HP_Finest_edit_1_2x_20221212102029.jpg" alt="image"/>
+            <Text fontSize='sm'>Self-Portrait</Text>
+          </GridItem>
+          <GridItem colSpan={1} bg='white'>
+            <Image src="https://img.mytheresa.com/media/static/raw/cms/l/LIFE_HP_2022_CW50/CW50_WW_HP_Finest_edit_2_2x_20221212102030.jpg" alt="image"/>
+            <Text fontSize='sm'>Gucci</Text>
+          </GridItem>
+          <GridItem colSpan={1} bg='white'>
+            <Image src="https://img.mytheresa.com/media/static/raw/cms/l/LIFE_HP_2022_CW50/CW50_WW_HP_Finest_edit_3_2x_20221212102029.jpg" alt="image"/>
+            <Text fontSize='sm'>Valentino</Text>
+          </GridItem>
+          <GridItem colSpan={1} bg='white'>
+            <Image src="https://img.mytheresa.com/media/static/raw/cms/l/LIFE_HP_2022_CW50/CW50_WW_HP_Finest_edit_4_2x_20221212102028.jpg" alt="image"/>
+            <Text fontSize='sm'>Oscar de la Renta</Text>
+          </GridItem>
+        </Grid>
+        <Button bg="black" color="white" variant='solid'_hover="black" marginTop="30px" marginBottom="30px" size="md">SHOP NOW >></Button>
+      </Box>
+      <Box marginBottom="20px" width="80%" marginLeft="150px">
+        <hr/>
+      </Box>
     </Box>
   )
 }
