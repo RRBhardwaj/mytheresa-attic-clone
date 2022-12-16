@@ -21,7 +21,7 @@ const link = [{path:"/newarrival" , title:"NEWARRIVAL"},
 
 const LinkingPage = () => {
   return (
-    <Box style={{fontSize:"18px"}}>
+    <Box style={{fontSize:"18px", marginBottom:"20px"}}>
       <Flex style={{marginLeft: "150px", marginRight:"150px"}}>
         <Flex gap={6}>
           {
