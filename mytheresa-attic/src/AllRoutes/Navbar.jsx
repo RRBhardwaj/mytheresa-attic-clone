@@ -3,6 +3,7 @@ import {Link} from "react-router-dom";
 import {Box,Button,Flex, Heading, Spacer,Input,Text} from "@chakra-ui/react";
 import { SearchIcon } from '@chakra-ui/icons'
 import styles from "../Components/Navbar.module.css"
+import { useNavigate } from "react-router-dom";
 
 const links = [{path:"/" , title:"WOMEN"},
     {path:"/men" , title:"MEN"},
@@ -20,6 +21,11 @@ const link = [{path:"/newarrival" , title:"NEWARRIVAL"},
 ];
 
 const LinkingPage = () => {
+  let navigate = useNavigate();
+
+  const signIn = () => {
+    navigate("/login")
+  }
   return (
     <Box style={{fontSize:"18px", marginBottom:"20px"}}>
       <Flex style={{marginLeft: "150px", marginRight:"150px"}}>
@@ -30,14 +36,14 @@ const LinkingPage = () => {
         </Flex>
         <Spacer/>
         <Flex gap={4}>
-          <Button variant='ghost' onClick={()=>console.log("SignUp")}>SIGNUP</Button>
-          <Button variant='ghost' onClick={()=>console.log("SignIn")}>SIGNIN</Button>
+          <Button variant='ghost' onClick={()=>console.log("Signup")}>SIGNUP</Button>
+          <Button variant='ghost' onClick={()=>signIn()}>SIGNIN</Button>
           <Text>CartBox</Text>
         </Flex>
       </Flex>
       <Flex marginTop="20px" marginBottom="25px">
         <Spacer/>
-        <Heading as='h2' size='lg' fontFamily="Arial,Helvetica,sans-serif" letterSpacing={0.8}>MYTHERESA-ATTIC</Heading>
+        <Heading as='h2' size='lg' fontFamily="Arial,Helvetica,sans-serif" letterSpacing={0.8} onClick={()=>navigate("/")} cursor="pointer">MYTHERESA-ATTIC</Heading>
         <Spacer/>
       </Flex>
       <Flex className={styles.navbar}>

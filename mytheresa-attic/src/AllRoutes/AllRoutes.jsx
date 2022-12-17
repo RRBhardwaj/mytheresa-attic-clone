@@ -11,6 +11,7 @@ import Bags from "../Pages/Bags";
 import Accessories from "../Pages/Accessories"; 
 import Jewelry from "../Pages/Jewelry"; 
 import Sale from "../Pages/Sale"; 
+import { Login } from "../Components/Login";
 
 export const AllRoutes = () => {
   return (
@@ -27,6 +28,7 @@ export const AllRoutes = () => {
             <Route path="/accessories" element={<Accessories/>}/>
             <Route path="/jewelry" element={<Jewelry/>}/>
             <Route path="/sale" element={<Sale/>}/>
+            <Route path="/login" element={<Login/>}/>
         </Routes>
     </div>
   )
