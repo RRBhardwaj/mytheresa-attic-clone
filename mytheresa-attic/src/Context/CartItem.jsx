@@ -16,3 +16,4 @@ export const CartItemProvider = ({children}) =>{
 
     return <CartItem.Provider value={{handleCart}}>{children}</CartItem.Provider>
 }
+ 
