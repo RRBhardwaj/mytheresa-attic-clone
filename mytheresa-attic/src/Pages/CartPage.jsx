@@ -34,7 +34,6 @@ const CartPage = () => {
         deleteCartItem(id);
         handleGetItem();
     } 
-
   return (
     <Box>
         <Box marginTop="20px" marginBottom="20px" className={styles.products}>
