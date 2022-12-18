@@ -14,6 +14,7 @@ import Sale from "../Pages/Sale";
 import { Login } from "../Components/Login";
 import { SignUp } from "../Components/Sign";
 import SearchPage from "../Pages/SearchPage";
+import CartPage from "../Pages/CartPage";
 
 export const AllRoutes = () => {
   return (
@@ -33,6 +34,7 @@ export const AllRoutes = () => {
             <Route path="/login" element={<Login/>}/>
             <Route path="/sign" element={<SignUp/>}/>
             <Route path="/search" element={<SearchPage/>}/>
+            <Route path="/cart" element={<CartPage/>}/>
         </Routes>
     </div>
   )
