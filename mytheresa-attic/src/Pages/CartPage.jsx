@@ -33,7 +33,7 @@ const CartPage = () => {
     const handleDelete = (id) => {
         deleteCartItem(id);
         handleGetItem();
-    }
+    } 
 
   return (
     <Box>
