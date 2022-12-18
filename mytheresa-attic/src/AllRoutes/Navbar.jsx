@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import {Box,Button,Flex, Heading, Spacer,Input,Text} from "@chakra-ui/react";
+import {Box,Button,Flex, Heading, Spacer,Input} from "@chakra-ui/react";
 import { SearchIcon } from '@chakra-ui/icons'
 import styles from "../Components/Navbar.module.css"
 import { useNavigate } from "react-router-dom";
@@ -36,12 +36,12 @@ const LinkingPage = () => {
     navigate("/sign")
   }  
   const handleQuery = (query) =>{
-    if(!query){
-      navigate("/");
-      alert("Empty Input Box");
-    }else{
+    if(query==="shopnow"||query==="sale"||query==="accessories"|| query==="newarrival" || query==="jewelry"|| query==="products"||query==="bags"||query==="shoes"){
       handleSearch(query);
       navigate("/search");
+    }else{
+      navigate("/");
+      alert("No Search Available");
     }
     
   }
@@ -59,7 +59,7 @@ const LinkingPage = () => {
         <Flex gap={4}>
           <Button variant='ghost' onClick={()=>signUp()}>SIGNUP</Button>
           <Button variant='ghost' onClick={()=>signIn()}>SIGNIN</Button>
-          <Text>CartBox</Text>
+          <Button variant='ghost' onClick={()=>navigate("/cart")}>CART</Button>
         </Flex>
       </Flex>
       <Flex marginTop="20px" marginBottom="25px">

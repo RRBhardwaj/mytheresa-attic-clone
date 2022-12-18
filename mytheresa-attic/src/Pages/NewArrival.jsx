@@ -4,6 +4,8 @@ import { useEffect,useState } from 'react';
 import {Box,Text,Image,Button,Grid,Flex,Spacer} from "@chakra-ui/react";
 import styles from "./mens.module.css";
 import Footer from '../Components/Footer';
+import { useContext } from 'react';
+import { CartItem } from '../Context/CartItem';
 
 const getMensData = (page,sort,name) => {
   return axios.get(`http://localhost:5000/products?_page=${page}&_limit=12&_sort=${name}&_order=${sort}`);
@@ -14,6 +16,7 @@ const NewArrival = () => {
   const [page,setPage] = useState(1);
   const [sort,setSort] = useState("desc")
   const [name,setName] = useState("name")
+  const {handleCart} = useContext(CartItem);
 
   useEffect(()=>{
     getMensData(page,sort,name)
@@ -34,6 +37,9 @@ const NewArrival = () => {
   const handleName = (value) => {
     setName(value)
   }
+  const handleCartItem = (el) => {
+    handleCart(el);
+  }
   return (
     <Box>
       <Flex marginBottom="20px">
@@ -52,7 +58,7 @@ const NewArrival = () => {
           <Text>{el.name}</Text>
           <Text>{el.title}</Text>
           <Text>{el.price}</Text>
-          <Button colorScheme='teal' size='xs'marginBottom="8px">Add To Cart</Button>
+          <Button colorScheme='teal' size='xs'marginBottom="8px" onClick={()=>handleCartItem(el)}>Add To Cart</Button>
         </Box>
       ))
     }
