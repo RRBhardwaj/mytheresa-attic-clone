@@ -1,6 +1,6 @@
 import axios from "axios";
 
-function loginUser({ email, password }) {
+function signUp({ email, password }) {
   if (!email || !password) {
     return Promise.reject("email or password is missing");
   }
@@ -10,9 +10,8 @@ function loginUser({ email, password }) {
       email,
       password
     },
-    url: "https://reqres.in/api/login"
+    url: "https://reqres.in/api/register"
   };
   return axios(config);
 }
-
-export { loginUser };
+export default signUp;

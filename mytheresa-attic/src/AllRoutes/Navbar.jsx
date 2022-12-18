@@ -4,6 +4,10 @@ import {Box,Button,Flex, Heading, Spacer,Input,Text} from "@chakra-ui/react";
 import { SearchIcon } from '@chakra-ui/icons'
 import styles from "../Components/Navbar.module.css"
 import { useNavigate } from "react-router-dom";
+import { useState } from 'react';
+import { useContext } from 'react';
+import { SearchContext } from '../Context/SearchContext';
+
 
 const links = [{path:"/" , title:"WOMEN"},
     {path:"/men" , title:"MEN"},
@@ -22,10 +26,27 @@ const link = [{path:"/newarrival" , title:"NEWARRIVAL"},
 
 const LinkingPage = () => {
   let navigate = useNavigate();
+  const [query,setQuery] = useState("");
+  const {handleSearch} = useContext(SearchContext);
 
   const signIn = () => {
     navigate("/login")
   }
+  const signUp = () => {
+    navigate("/sign")
+  }  
+  const handleQuery = (query) =>{
+    if(!query){
+      navigate("/");
+      alert("Empty Input Box");
+    }else{
+      handleSearch(query);
+      navigate("/search");
+    }
+    
+  }
+ 
+  
   return (
     <Box style={{fontSize:"18px", marginBottom:"20px"}}>
       <Flex style={{marginLeft: "150px", marginRight:"150px"}}>
@@ -36,7 +57,7 @@ const LinkingPage = () => {
         </Flex>
         <Spacer/>
         <Flex gap={4}>
-          <Button variant='ghost' onClick={()=>console.log("Signup")}>SIGNUP</Button>
+          <Button variant='ghost' onClick={()=>signUp()}>SIGNUP</Button>
           <Button variant='ghost' onClick={()=>signIn()}>SIGNIN</Button>
           <Text>CartBox</Text>
         </Flex>
@@ -54,8 +75,8 @@ const LinkingPage = () => {
         </Flex>
         <Spacer/>
         <Flex>
-        <Input variant='filled' width='auto' placeholder='Search for...'/>
-        <SearchIcon boxSize={6} marginTop="5px" w={8} h={8}/>
+        <Input variant='filled' width='auto' placeholder='Search for...' onChange={(e)=>setQuery(e.target.value)}/>
+        <SearchIcon boxSize={6} marginTop="5px" w={8} h={8} onClick={()=>handleQuery(query)}/>
         </Flex>
       </Flex>
       <hr style={{margin:"0px"}}/>

@@ -1,9 +1,9 @@
 import React from "react";
-import { loginUser } from "./loginUser";
+import signUp from "../Components/signUp";
 import { useNavigate } from "react-router-dom";
-import { FormControl, Input,Box} from '@chakra-ui/react'
+import { FormControl, Input,Box} from '@chakra-ui/react';
 
-const Login = () => {
+const SignUp = () => {
     let navigate = useNavigate();
   const [email, setEmail] = React.useState("");
   const [password, setPassword] = React.useState("");
@@ -11,18 +11,18 @@ const Login = () => {
   const [isAuth, setIsAuth] = React.useState(false);
   const [isLoading, setIsLoading] = React.useState(false);
   const [isError, setIsError] = React.useState(false);
-  console.log(token,isAuth,isLoading)
+  console.log(token,isAuth,isLoading);
 
   const handleSubmit = (e) => {
     e.preventDefault();
     setIsLoading(true);
     setIsError(false);
-    loginUser({ email, password })
+    signUp({ email, password })
       .then((res) => {
         setIsAuth(true);
         setToken(res.data.token);
         navigate("/");
-        alert("Successfully login");
+        alert("Successfully Registered");
       })
       .catch((err) => {
         setIsError(true);
@@ -32,7 +32,7 @@ const Login = () => {
       });
   };
 
-
+  
   return (
     <Box width="40%" margin="auto" textAlign='left'>
         <form onSubmit={handleSubmit}>
@@ -41,8 +41,8 @@ const Login = () => {
             <FormControl>
             Email:{" "}
             <Input
-                bg="#361b24" 
-                color="#e30e58"
+                bg="black" 
+                color="white"
                 type="email"
                 placeholder="email"
                 onChange={(e) => setEmail(e.target.value)}
@@ -53,8 +53,8 @@ const Login = () => {
             <FormControl>
             Password:{" "}
             <Input
-                bg="#361b24" 
-                color="#e30e58"
+                bg="black" 
+                color="white"
                 type="password"
                 placeholder="password"
                 onChange={(e) => setPassword(e.target.value)}
@@ -62,11 +62,11 @@ const Login = () => {
             </FormControl>
         </Box>
         <Box marginTop="8px">
-            <Input bg="#4f192b" color="#e30e58" type="submit" />
+            <Input bg="black" color="white" type="submit" />
         </Box>
         </form>
     </Box>
   );
 };
 
-export { Login };
+export { SignUp };

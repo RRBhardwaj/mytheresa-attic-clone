@@ -1,5 +1,6 @@
 import { Box , Button, Image, Spacer,Text,Grid,GridItem} from "@chakra-ui/react";
 import { useNavigate } from "react-router-dom";
+import Footer from "../Components/Footer";
 import styles from "./Women.module.css";
 
 
@@ -124,6 +125,7 @@ const Women = () => {
       <Box marginBottom="20px" width="80%" marginLeft="150px">
         <hr/>
       </Box>
+      <Footer />
     </Box>
   )
 }

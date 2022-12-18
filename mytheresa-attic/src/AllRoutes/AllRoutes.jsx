@@ -12,6 +12,8 @@ import Accessories from "../Pages/Accessories";
 import Jewelry from "../Pages/Jewelry"; 
 import Sale from "../Pages/Sale"; 
 import { Login } from "../Components/Login";
+import { SignUp } from "../Components/Sign";
+import SearchPage from "../Pages/SearchPage";
 
 export const AllRoutes = () => {
   return (
@@ -29,16 +31,9 @@ export const AllRoutes = () => {
             <Route path="/jewelry" element={<Jewelry/>}/>
             <Route path="/sale" element={<Sale/>}/>
             <Route path="/login" element={<Login/>}/>
+            <Route path="/sign" element={<SignUp/>}/>
+            <Route path="/search" element={<SearchPage/>}/>
         </Routes>
     </div>
   )
 }
-
-/*const link = [{path:"/newarrival" , title:"NEWARRIVAL"},
-    {path:"/clothing" , title:"CLOTHING"},
-    {path:"/shoes" , title:"SHOES"},
-    {path:"/bags" , title:"BAGS"},
-    {path:"/accessories" , title:"ACCESSORIES"},
-    {path:"/jewelry" , title:"JEWELRY"},
-    {path:"/sale" , title:"SALE"},
-]; */

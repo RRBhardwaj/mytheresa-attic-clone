@@ -3,6 +3,7 @@ import axios from "axios";
 import { useEffect,useState } from 'react';
 import {Box,Text,Image,Button,Grid,Flex,Spacer} from "@chakra-ui/react";
 import styles from "./mens.module.css";
+import Footer from '../Components/Footer';
 
 const getMensData = (page,sort,name) => {
   return axios.get(`http://localhost:5000/kids?_page=${page}&_limit=12&_sort=${name}&_order=${sort}`);
@@ -62,6 +63,10 @@ const Kids = () => {
         <Button disabled>{page}</Button>
         <Button disabled={page===5} onClick={()=>handleChange(1)}>NEXT</Button>
       </Box>
+      <Box marginTop="20px" marginBottom="20px" width="80%" marginLeft="150px">
+        <hr/>
+      </Box>
+      <Footer/>
     </Box>
   )
 }
